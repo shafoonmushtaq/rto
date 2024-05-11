@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://cdn.jsdelivr.net/gh/shafoonmushtaq/rto/bouncing-circles.svg.svg';
+svgImage.src = 'https://cdn.jsdelivr.net/gh/shafoonmushtaq/rto/bouncing-circles.svg';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
